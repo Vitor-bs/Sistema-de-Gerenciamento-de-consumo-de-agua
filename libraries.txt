@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+HX711
+PubSubClient
+MQTTPubSubClient
+EasyHTTP
+ArduinoJson
+Keypad
+Adafruit GFX Library
+Adafruit SSD1306
